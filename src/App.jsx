@@ -13,6 +13,7 @@ const COPY = {
       path: 'Jalur Transformasi',
       testimonials: 'Testimoni',
       portfolio: 'Portofolio',
+      login: 'Masuk',
     },
     hero: {
       title: 'Saya Tidak Hanya Mengajari Anda AI. Saya Akan Menjadikan Anda Arsiteknya.',
@@ -61,6 +62,7 @@ const COPY = {
       path: 'Transformation Path',
       testimonials: 'Testimonials',
       portfolio: 'Portfolio',
+      login: 'Login',
     },
     hero: {
       title: "I won't just teach you AI. I'll turn you into its architect.",
@@ -109,6 +111,7 @@ const COPY = {
       path: '蜕变之路',
       testimonials: '学员见证',
       portfolio: '作品集',
+      login: '登录',
     },
     hero: {
       title: '我不仅教你使用 AI，我要让你成为它的架构师。',
